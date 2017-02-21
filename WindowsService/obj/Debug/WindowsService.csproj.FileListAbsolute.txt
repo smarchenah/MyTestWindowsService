@@ -1,0 +1,11 @@
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\WindowsService\obj\Debug\WindowsService.csprojResolveAssemblyReference.cache
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\WindowsService\obj\Debug\WindowsService.Form1.resources
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\WindowsService\obj\Debug\WindowsService.Properties.Resources.resources
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.Cache
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\WindowsService\bin\Debug\WindowsService.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\WindowsService\bin\Debug\MyTestWindowsService.exe
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\WindowsService\obj\Debug\WindowsService.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\WindowsService\bin\Debug\MyTestWindowsService.pdb

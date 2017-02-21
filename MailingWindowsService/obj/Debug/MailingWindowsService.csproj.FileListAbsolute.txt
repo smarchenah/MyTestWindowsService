@@ -1,0 +1,10 @@
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\bin\Debug\MailingWindowsService.exe
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\bin\Debug\MailingWindowsService.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\obj\Debug\MailingWindowsService.csprojResolveAssemblyReference.cache
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\obj\Debug\MailingWindowsService.ProjectInstaller.resources
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\obj\Debug\MailingWindowsService.csproj.GenerateResource.Cache
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\obj\Debug\MailingWindowsService.exe
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\obj\Debug\MailingWindowsService.pdb
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\bin\Debug\MailingWindowsService.exe.config
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\bin\Debug\MyTestWindowsService.exe
+C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\bin\Debug\MyTestWindowsService.pdb

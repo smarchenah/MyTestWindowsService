@@ -1,0 +1,13 @@
+﻿Assembly C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\bin\Debug\MailingWindowsService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   assemblypath = C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\bin\Debug\MailingWindowsService.exe
+   logfile = C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\bin\Debug\MailingWindowsService.InstallLog
+Dienst WSMailing wird installiert...
+Dienst WSMailing wurde installiert.
+Die EventLog-Quelle WSMailing im Protokoll Application wird erstellt...
+Assembly C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\bin\Debug\MailingWindowsService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   assemblypath = C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\bin\Debug\MailingWindowsService.exe
+   logfile = C:\Users\marchena.INCAS\Desktop\Sergio\TestProjects\MyTestWindowsService\MailingWindowsService\bin\Debug\MailingWindowsService.InstallLog
